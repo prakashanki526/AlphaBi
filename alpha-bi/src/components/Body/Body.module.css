@@ -42,6 +42,11 @@
     justify-content: center;
 }
 
+.searchBtn:hover{
+    background-color: rgb(37, 37, 37);
+    cursor: pointer;
+}
+
 .cardContainer{
     /* border: 1px solid red; */
     margin-top: 3rem;
