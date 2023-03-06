@@ -1,0 +1,37 @@
+.container{
+    /* border: 1px solid blue; */
+    height: 20rem;
+    width: 22rem;
+    margin-left: 1.5rem;
+    float: left;
+}
+
+.imageContainer{
+    height: 70%;
+    /* border: 1px solid pink; */
+}
+
+.image{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.detailsContainer{
+    /* border: 1px solid yellow; */
+    height: 30%;
+    letter-spacing: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title{
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.subtitle{
+    font-weight: 400;
+    color: grey;
+}
